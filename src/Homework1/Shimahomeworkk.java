@@ -25,10 +25,10 @@ public class Shimahomeworkk {
 	    String gender ="female"; // I am writing a string for the variable gender
 	    String maritalstatus= "married"; // I am writing a string for the variable maritalstatus
 	    
-	    System.out.println ("my name"+"username");
-	    System.out.println ("my age is" +age);
-	    System.out.println ("my gender is"+"female");
-	    System.out.println ("my maritalstatus is"+"married");
+	    System.out.println ("my name is "+ name);
+	    System.out.println ("my age is "+ age);
+	    System.out.println ("my gender is "+ gender);
+	    System.out.println ("my maritalstatus is " +maritalstatus);
 	    
 	    
 	    	
